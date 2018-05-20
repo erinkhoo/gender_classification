@@ -1,4 +1,6 @@
-# gender_classification_challenge
+# Gender Classification Using scikit-learn
+
+> You can learn how to setup your Mac by following these [dope instructions](https://erinkhoo.github.io/how-to-install-python-for-machine-learning-from-scratch-2018/)
 
 ##Overview
 
@@ -14,7 +16,7 @@ Install missing dependencies using [pip](https://pip.pypa.io/en/stable/installin
 
 ##Usage
 
-Once you have your dependencies installed via pip, run the script in terminal via
+Once you have your dependencies installed via pip, make a copy of the 'demo.py' scipt and run the script in terminal via
 
 ```
 python demo.py
