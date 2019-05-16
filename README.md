@@ -1,4 +1,4 @@
-# Gender Classification Using scikit-learn
+# Gender Classification Experiment Using scikit-learn
 
 > You can learn how to setup your Mac by following these [dope instructions](https://erinkhoo.github.io/how-to-install-python-for-machine-learning-from-scratch-2018/)
 
